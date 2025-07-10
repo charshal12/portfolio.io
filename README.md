@@ -108,4 +108,4 @@ Savitribai Phule Pune University<br>
 * Java: Automated API Testing with REST Assured<br>
 * Currently Pursuing: AWS Certified Cloud<br>
 
-[Download/View PDF]()
+[Download/View Harshal_Resume_PDF](https://github.com/charshal12/portfolio.io/blob/master/Harshal%20Chaudhari%20Resume.pdf)
